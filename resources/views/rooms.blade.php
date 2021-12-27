@@ -41,7 +41,7 @@
                     </p>
                 </div>
                 <div class="col-md-4 p-0 banner_image">
-                    <img src="{{ asset('images/sunshine41.jpeg') }}" alt="hotel image" class="img-fluid" style="height: 100%; object-fit: cover;" />
+                    <img src="{{ asset('images/hotel_outside.jpg') }}" alt="hotel image" class="img-fluid" style="height: 100%; object-fit: cover;" />
                     <div class="overlay">
                         <div class="text banner_overlay"><span style="text-decoration: bold;">Rooms</span> <br /><br />Sunshine offers a cozy, comforting, and friendly stay with world-class amenities.</div>
                     </div>
